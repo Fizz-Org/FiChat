@@ -1,4 +1,6 @@
 # FiChat
+![GitHub License](https://img.shields.io/github/license/Fizz-Org/FiChat?style=for-the-badge&color=190A6E) ![GitHub Repo stars](https://img.shields.io/github/stars/Fizz-Org/FiChat?style=for-the-badge&color=190A6E) ![GitHub forks](https://img.shields.io/github/forks/Fizz-Org/FiChat?style=for-the-badge&color=190A6E)
+
 Private encrypted chat software for personal use.
 
 Feel free to fork and add your own features. This is an extremley bare-bones version of whats possible.
